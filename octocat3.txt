@@ -1,4 +1,1 @@
 What is a branch?
-
-A branch is an off shoot from a repository where you can make changes to files without interfering with the master (default) branch. When you've made your changes, you can 
-merge you changes back into the master branch. 
