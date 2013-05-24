@@ -1,0 +1,1 @@
+Git clone makes a local copy of a remote repository and creates a folder for in whichever folder you're currently working in. 
