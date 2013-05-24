@@ -1,0 +1,2 @@
+Upstream remote is used to map local branches to remote branches. You can use this to git push and it will automatically go the respective branch that you're working in.
+This saves you having to specify which branch to push to, or change your default regularly.
